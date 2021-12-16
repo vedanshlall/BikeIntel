@@ -1,0 +1,20 @@
+data_avenue = "../bikeIntel data/"
+stationswise = "Stationwise bookings/"
+stations = ['Grove St PATH', 'Hamilton Park', 'Sip Ave', 'Exchange Place',
+       'Newport PATH', 'Newport Pkwy', 'Newark Ave', 'Warren St',
+       'Morris Canal', 'Marin Light Rail', 'City Hall', 'Van Vorst Park',
+       'Paulus Hook', 'Brunswick St', 'Harborside', 'Liberty Light Rail',
+       'Essex Light Rail', 'Jersey & 3rd', 'Jersey & 6th St',
+       'McGinley Square', 'Columbus Drive', 'Brunswick & 6th',
+       'JC Medical Center', 'Monmouth and 6th', 'Manila & 1st', 'Dixon Mills',
+       'Washington St', 'Oakland Ave', 'Baldwin at Montgomery',
+       'Pershing Field', 'Journal Square', 'Lincoln Park',
+       'Columbus Dr at Exchange Pl', 'Hilltop', 'Grand St', 'Christ Hospital',
+       '5 Corners Library', 'Astor Place', 'Heights Elevator',
+       'Lafayette Park', 'Riverview Park', 'York St', 'Montgomery St',
+       'Leonard Gordon Park', 'Fairmount Ave', 'Dey St', 'Bergen Ave',
+       'Communipaw & Berry Lane', 'Glenwood Ave', 'Central Ave', 'Union St',
+       'North St', 'Hoboken Ave at Monmouth St', 'Garfield Ave Station',
+       'Jackson Square', 'NJCU', 'West Side Light Rail', 'Bayside Park',
+       'MLK Light Rail', 'Columbia Park', 'Danforth Light Rail',
+       'Bethune Center', 'JCBS Depot']
